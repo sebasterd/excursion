@@ -1,12 +1,12 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 
 h1,
 h2,
 p {
-  font-family: Verdana;
   color: white;
 }
 
